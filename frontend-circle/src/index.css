@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: ProximaNova,Arial,Helvetica;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: ProximaNova,Arial,Helvetica,
+    monospace;
+}
+
+.navbar-light .navbar-brand {
+  color: darkcyan;
+  font-size: 30px;
+  font-weight: 700;
+}
+.navbar-light ul{
+  font-weight: 700;
+}
+.nav-item:hover{
+  text-decoration: underline;
+  color: blue
+}
+.figure{
+  height: 40vh;
+}
